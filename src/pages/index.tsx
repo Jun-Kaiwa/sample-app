@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <AdminLayout>コンテンツ</AdminLayout>;
+      <AdminLayout>コンテンツ!!!</AdminLayout>;
 
       <main className={styles.main}>
         <h1 className={styles.title}>
